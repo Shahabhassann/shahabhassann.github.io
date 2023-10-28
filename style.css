@@ -8,19 +8,19 @@ header{
   border-bottom-right-radius: 500px; 
 }
 
-/* 'SHAHAB HASSANS PORTFOLIO' */
+/* edits 'SHAHAB HASSANS PORTFOLIO' text */
 .title {
   color: #0F9581;
   margin: 0;
   line-height: 1.15;
   font-size: 4rem;
 }
-/*centers any text you want by grouping*/
+/*centered text*/
 .title,
 .description,h2,p,h3,a {
   text-align: center;
 }
-/* 'HAVE A LOOK!' */
+/* affects'HAVE A LOOK!' text only*/
 .description {
   color:#0F9581;
   size: 40px;
@@ -30,13 +30,14 @@ header{
 .list{
   text-align: center;
 }
-  /*             'BODY'               */
+  /*   'BODY'  */
 html, body {
   background-color: #DCDEDE;
   margin-left: 20px; 
   margin-right: 20px;
   font-family: apple-system,Helvetica Neue, sans-serif;
 }
+/* background color */
 .background{
   color:#DCDEDE;
 }
@@ -45,13 +46,14 @@ main {
   margin-top: 40px;
   align-items: center;
 }
-
+/* paragraphs */
 P{
   font-size: 15px;
   text-align: center;
   font-family: apple-system,Helvetica Neue, sans-serif;
   margin-bottom: 40px;
 }
+/* sets image parameters*/
 img{
   width: 300px;
   height: 300px;
@@ -62,4 +64,15 @@ img{
   margin-left: 20px;
   margin-left: 20px;
 }
-
+/* visited link color */
+a:visited {
+  color: #551A8B; 
+}
+/* link color on hover */
+a:hover {
+  color: #FF4500; 
+}
+/* link color when clicked*/
+a:active {
+  color: #3F413F; 
+}
