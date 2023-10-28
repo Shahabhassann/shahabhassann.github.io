@@ -1,0 +1,65 @@
+header{
+  background-color: #3F413F;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+  border-bottom-left-radius: 500px;
+  border-bottom-right-radius: 500px; 
+}
+
+/* 'SHAHAB HASSANS PORTFOLIO' */
+.title {
+  color: #0F9581;
+  margin: 0;
+  line-height: 1.15;
+  font-size: 4rem;
+}
+/*centers any text you want by grouping*/
+.title,
+.description,h2,p,h3,a {
+  text-align: center;
+}
+/* 'HAVE A LOOK!' */
+.description {
+  color:#0F9581;
+  size: 40px;
+  font-size: 2rem;
+}
+/* 'AFFECTS ALL LISTS' */
+.list{
+  text-align: center;
+}
+  /*             'BODY'               */
+html, body {
+  background-color: #DCDEDE;
+  margin-left: 20px; 
+  margin-right: 20px;
+  font-family: apple-system,Helvetica Neue, sans-serif;
+}
+.background{
+  color:#DCDEDE;
+}
+main {
+  padding: 30;
+  margin-top: 40px;
+  align-items: center;
+}
+
+P{
+  font-size: 15px;
+  text-align: center;
+  font-family: apple-system,Helvetica Neue, sans-serif;
+  margin-bottom: 40px;
+}
+img{
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 15%;
+  margin-bottom: 40px;
+  margin-top: 40px;
+  margin-left: 20px;
+  margin-left: 20px;
+}
+
