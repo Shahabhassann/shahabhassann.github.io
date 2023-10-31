@@ -23,7 +23,6 @@ header{
 /* affects'HAVE A LOOK!' text only*/
 .description {
   color:#0F9581;
-  size: 40px;
   font-size: 2rem;
 }
 /* 'AFFECTS ALL LISTS' */
@@ -42,7 +41,6 @@ html, body {
   color:#DCDEDE;
 }
 main {
-  padding: 30;
   margin-top: 40px;
   align-items: center;
 }
